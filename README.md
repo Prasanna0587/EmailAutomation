@@ -1,1 +1,1 @@
-# EmailAutomation
+# PasswordGenerator
